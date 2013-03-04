@@ -1,0 +1,21 @@
+## project specific
+assets/www/
+bin/
+gen/
+chromedriver.log
+
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
